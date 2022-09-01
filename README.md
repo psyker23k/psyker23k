@@ -11,7 +11,7 @@
 
 - 📫 Você me acha através do e-mail **maxfelipinho@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Redes Sociais:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/psyker-master-49a8381a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxfelipinho" height="30" width="40" /></a>
 <a href="https://www.facebook.com/maxwell.felipe.102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maxfelipinho" height="30" width="40" /></a>
