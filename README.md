@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **Laravel, WordPress, DevOps**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/psyker23k](https://github.com/psyker23k)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://portfoliopsyker.netlify.app/](https://portfoliopsyker.netlify.app/)
 
 - 💬 Me pergunte sobre **Php, Html, Css, Javascript, Mysql**
 
