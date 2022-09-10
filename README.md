@@ -15,7 +15,7 @@
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/psyker-master-49a8381a1/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="maxfelipinho" /></a>
-<a href = "mailto:maxfelipinho@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="maxfelipinho"></a>
+<a href = "mailto:maxfelipinho@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="maxfelipinho"/></a>
 <a href="https://www.instagram.com/maxfelipinho/" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="maxfelipinho" /></a>
 <a href="https://discord.gg/g4Geb2FC" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="psyker23k" /></a>
 </p>
