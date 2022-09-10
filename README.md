@@ -1,15 +1,15 @@
 <h1 align="center">Olá 👋, Eu sou Maxwell Felipe da Silva</h1>
 <h3 align="center">Apaixonado por Banco de Dados e Desenvolvimento Web no mundo digital</h3>
 
-<h4 align="center">🔭 Atualmente estou trabalhando no Exército Brasileiro</h4>
+- 🔭 Atualmente estou trabalhando no Exército Brasileiro
 
-<h4 align="center">🌱 Atualmente estou aprendendo **Laravel, Python, DevOps**</h4>
+- 🌱 Atualmente estou aprendendo **Laravel, Python, DevOps**
 
-<h4 align="center">👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/psyker23k](https://github.com/psyker23k)</h4>
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/psyker23k](https://github.com/psyker23k)
 
-<h4 align="center">💬 Me pergunte sobre **Php, Html, Css, Javascript, Mysql**</h4>
+- 💬 Me pergunte sobre **Php, Html, Css, Javascript, Mysql**
 
-<h4 align="center">📫 Você me acha através do e-mail **maxfelipinho@gmail.com**</h4><br>
+- 📫 Você me acha através do e-mail **maxfelipinho@gmail.com**
 
 <h3 align="center">Redes Sociais:</h3>
 <p align="center">
