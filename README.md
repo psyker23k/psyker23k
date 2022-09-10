@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Maxwell Felipe da Silva</h1>
 <h3 align="center">Apaixonado por Banco de Dados e Desenvolvimento Web no mundo digital</h3>
 
-- 🔭 Atualmente estou trabalhando no [Exército Brasileiro](http://www.11gaaae.eb.mil.br/)
+<h5 align="center">- 🔭 Atualmente estou trabalhando no [Exército Brasileiro](http://www.11gaaae.eb.mil.br/)</h5>
 
 - 🌱 Atualmente estou aprendendo **Laravel, Python, DevOps**
 
