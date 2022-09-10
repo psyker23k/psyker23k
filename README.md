@@ -9,7 +9,7 @@
 
 - 💬 Me pergunte sobre **Php, Html, Css, Javascript, Mysql**
 
-- 📫 Você me acha através do e-mail **maxfelipinho@gmail.com**
+- 📫 Você me acha através do e-mail **maxfelipinho@gmail.com**<br>
 
 <h3 align="center">Redes Sociais:</h3>
 <p align="center">
