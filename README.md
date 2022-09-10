@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/psyker-master-49a8381a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxfelipinho" height="30" width="40" /></a>
 <a href="https://www.facebook.com/maxwell.felipe.102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maxfelipinho" height="30" width="40" /></a>
-<a href="https://www.instagram.com/maxfelipinho/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maxfelipinho" height="30" width="40" /></a>
+<a href="https://www.instagram.com/maxfelipinho/" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="maxfelipinho" height="30" width="40" /></a>
 <a href="https://discord.gg/g4Geb2FC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="psyker23k" height="30" width="40" /></a>
 </p>
 </div>
