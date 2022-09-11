@@ -6,7 +6,7 @@
 
 - 🔭 Atualmente estou trabalhando no Exército Brasileiro
 
-- 🌱 Atualmente estou aprendendo **Laravel, Python, DevOps**
+- 🌱 Estou aprendendo e me aperfeiçoando em **Laravel, Python, DevOps**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/psyker23k](https://github.com/psyker23k)
 
