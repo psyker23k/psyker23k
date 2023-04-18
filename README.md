@@ -4,7 +4,7 @@
     <img align="right" width="48%" alt="Octocat" src="https://github.com/psyker23k/psyker23k/blob/main/octocat-1662841456974.png" />
     </div>
 
-- 🔭 Atualmente sou atuo como Programador PHP no Exército Brasileiro
+- 🔭 Atualmente trabalho como Programador PHP no Exército Brasileiro
 
 - 🌱 Estou aprendendo **Laravel, Python, DevOps**
 
