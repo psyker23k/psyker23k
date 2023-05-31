@@ -6,11 +6,11 @@
 
 - 🔭 Atualmente trabalho como Programador PHP no Exército Brasileiro
 
-- 🌱 Estou aprendendo **Laravel, Python, DevOps**
+- 🌱 Estou aprendendo **Laravel, Cloud, DevOps**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/psyker23k](https://github.com/psyker23k)
 
-- 💬 Me pergunte sobre **Php, Html, Css, Javascript, Mysql**
+- 💬 Me pergunte sobre **Php, Python, Html, Css, Javascript, Mysql**
 
 - 📫 Você me acha através do e-mail **maxfelipinho@gmail.com**
 
@@ -26,7 +26,7 @@
 <div>
 <h3 align="left">Linguagens e Ferramentas:</h3></div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,postgresql,bootstrap,php,ps,linux,git,ai,netlify,figma,webflow,aws&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,postgresql,bootstrap,php,python,ps,linux,git,ai,netlify,figma,webflow&perline=7)](https://skillicons.dev)
 
 
 ![snake gif](https://github.com/psyker23k/psyker23k/blob/output/github-contribution-grid-snake.svg)
