@@ -26,7 +26,7 @@
 <div>
 <h3 align="left">Linguagens e Ferramentas:</h3></div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,postgresql,bootstrap,php,python,ps,linux,git,ai,netlify,figma,webflow&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,postgresql,mongodb,bootstrap,wordpress,tailwind,php,laravel,docker,vue,react,ps,linux,git,ai,netlify,aws,gcp,azure,figma,webflow&perline=7)](https://skillicons.dev)
 
 
 ![snake gif](https://github.com/psyker23k/psyker23k/blob/output/github-contribution-grid-snake.svg)
