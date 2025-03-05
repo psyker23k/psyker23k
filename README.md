@@ -6,7 +6,7 @@
 
 - 🔭 Atualmente trabalho como Programador PHP no Exército Brasileiro
 
-- 🌱 Estou aprendendo **Laravel, Cloud, DevOps**
+- 🌱 Estou aprendendo **Cloud, DevOps**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/psyker23k](https://github.com/psyker23k)
 
