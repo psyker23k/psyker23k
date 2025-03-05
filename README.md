@@ -10,7 +10,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/psyker23k](https://github.com/psyker23k)
 
-- 💬 Me pergunte sobre **Php, Python, Html, Css, Javascript, Mysql**
+- 💬 Me pergunte sobre **Php, Laravel, Html, Css, Javascript, Mysql, Postgresql**
 
 - 📫 Você me acha através do e-mail **maxfelipinho@gmail.com**
 
@@ -29,7 +29,12 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,postgresql,mongodb,bootstrap,wordpress,tailwind,php,laravel,docker,vue,react,ps,linux,git,ai,netlify,aws,gcp,azure,figma,webflow&perline=7)](https://skillicons.dev)
 
 
-![snake gif](https://github.com/psyker23k/psyker23k/blob/output/github-contribution-grid-snake.svg)
+### Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=psyker23k&show_icons=true&theme=radical)
+
+![Contribuições](https://github.com/psyker23k/psyker23k/blob/output/github-contribution-grid-snake.svg)
+
+Sinta-se à vontade para colaborar ou trocar ideias!
 
 
 
