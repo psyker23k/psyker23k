@@ -26,7 +26,7 @@
 <div>
 <h3 align="left">Linguagens e Ferramentas:</h3></div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,postgresql,mongodb,bootstrap,wordpress,tailwind,php,laravel,docker,vue,react,ps,linux,git,ai,netlify,aws,gcp,azure,figma,webflow&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,postgresql,mongodb,bootstrap,wordpress,tailwind,php,laravel,docker,vue,react,ps,linux,git,ai,netlify,vercel,aws,gcp,azure,figma,webflow&perline=7)](https://skillicons.dev)
 
 
 ### Estatísticas
