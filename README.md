@@ -12,7 +12,7 @@
 
 - 💬 Me pergunte sobre **Php, Laravel, Html, Css, Javascript, Mysql, Postgresql**
 
-- 📫 Você me acha através do e-mail **maxfelipinho@gmail.com**
+- 📫 Você me acha através do e-mail **mexordev@protonmail.com**
 
 
 <h3 align="left">Redes Sociais:</h3>
