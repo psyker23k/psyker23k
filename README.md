@@ -10,7 +10,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/psyker23k](https://github.com/psyker23k)
 
-- 💬 Me pergunte sobre **Php, Laravel, Html, Css, Javascript, Mysql, Postgresql**
+- 💬 Me pergunte sobre **Php, Laravel, Docker, Html, Css, Javascript, Mysql, Postgresql**
 
 - 📫 Você me acha através do e-mail **mexordev@protonmail.com**
 
