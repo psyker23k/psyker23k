@@ -1,16 +1,16 @@
 <h1 align="center">Olá 👋, Eu sou Maxwell Felipe</h1>
-<h3 align="center">Apaixonado por Banco de Dados e Desenvolvimento Web no mundo digital</h3><br>
+<h3 align="center">Software Engineer | Especializando-se em Engenharia de Dados & Cloud</h3><br>
 <div>
     <img align="right" width="48%" alt="Octocat" src="https://github.com/psyker23k/psyker23k/blob/main/octocat-1662841456974.png" />
     </div>
 
-- 🔭 Atualmente trabalho como Programador PHP no Exército Brasileiro
+- 🔭 Atualmente trabalho como Programador de Sistemas no Exército Brasileiro
 
-- 🌱 Estou aprendendo **Cloud, DevOps**
+- 🌱 Pós-graduando em Engenharia de Dados (Estácio)
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/psyker23k](https://github.com/psyker23k)
+- 👨‍💻 Focado em construir Pipelines ETL escaláveis e automação com Python
 
-- 💬 Me pergunte sobre **Php, Laravel, Docker, Html, Css, Javascript, Mysql, Postgresql**
+- 💬 Me pergunte sobre **Python, SQL (Postgres/MySQL/Mongo), Docker e Backend**
 
 - 📫 Você me acha através do e-mail **mexordev@protonmail.com**
 
