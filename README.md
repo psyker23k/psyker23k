@@ -6,7 +6,7 @@
 
 - 🔭 Atualmente trabalho como Programador de Sistemas no Exército Brasileiro
 
-- 🌱 Pós-graduando em Engenharia de Dados (Estácio)
+- 🌱 Pós-graduando em Engenharia de Dados (Infnet)
 
 - 👨‍💻 Focado em construir Pipelines ETL escaláveis e automação com Python
 
