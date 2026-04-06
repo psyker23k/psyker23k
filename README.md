@@ -1,9 +1,6 @@
 <h1 align="center">Olá 👋, Eu sou Maxwell Felipe</h1>
 <h3 align="center">Desenvolvedor Full Stack PHP Pleno | Especialista Laravel & Vue.js</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=psyker23k&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
 
 ---
 
